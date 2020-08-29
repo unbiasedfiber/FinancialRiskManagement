@@ -110,7 +110,3 @@ class Bond(object):
         '''.format(self.type, self.fv, self.y, self.cp, self.p, self.t,
                     self.present_value, self.macaulay_duration, self.modified_duration,
                     self.dollar_duration, self.dollar_bp, self.convexity, self.convexity_per_price)
-
-
-b = Bond(100, .06, .06, 2, 2);
-print(b.bond_statistics())
