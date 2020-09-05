@@ -18,7 +18,7 @@ class Bond(object):
         self.durations = [0];
         self.convexities = [0];
 
-        self.type = "Coupon" if self.cp > 0 else "Zero_Coupon"
+        self.type = "Coupon" if self.cp == 0 else "Zero_Coupon"
 
         self.calculate_bond()
 
@@ -48,7 +48,7 @@ class Bond(object):
     def calculate_bond(self):
         cF = self.cp * self.fv;
 
-        if cF > 0:
+        if cF != 0:
         # sum of discounted coupon payments.
             for t in range(1, self.p*self.t+1):
                 pV = (cF/self.p) / ( 1 + (self.y/self.p) )**t
@@ -62,19 +62,19 @@ class Bond(object):
             # add face value payment at end of term.
             pV = (self.fv / ( 1 + (self.y/self.p) )**(self.t*self.p))
             cV = self.p * self.t * pV
-            cX = ((self.p*self.t+1) / (1+self.y/self.p)**2)*cV
+            cX = ((self.p*self.t + 1) / (1+self.y/self.p)**2)*cV
 
         else:
             pV = (self.fv / ( 1 + (self.y/self.p) )**(self.t*self.p))
             cV = self.t
-            cX = ( (self.p*self.t + 1) * self.p*self.t ) / (1+self.y/self.p)**2
+            cX =  self.fv * ((self.p*self.t + 1) * self.p*self.t ) / (1+self.y/self.p)**2
 
         self.payments[-1] += pV
         self.durations[-1] += cV
         self.convexities[-1] += cX
 
         self.present_value          = sum(self.payments)
-        self.convexity              = (sum(self.convexities)**1/2)/self.p if cF > 0 else sum(self.convexities);
+        self.convexity              = (sum(self.convexities)**1/2)/self.p;
         self.convexity_per_price    = self.convexity/self.fv
         self.macaulay_duration      = (sum(self.durations)/self.fv)/self.p if cF > 0 else self.t;
         self.modified_duration      = self.macaulay_duration/(1+self.y/self.p)
