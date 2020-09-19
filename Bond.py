@@ -46,6 +46,7 @@ class Bond(object):
                    duration_est, dur_convex_est)
 
     def calculate_bond(self):
+        #cF is coupon payment, fraction of the face value.
         cF = self.cp * self.fv;
 
         if cF != 0:
