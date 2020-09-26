@@ -1,0 +1,83 @@
+	
+
+	Operational Risk
+
+	Basel Committee says operational risk is:
+	" the risk of direct and indirect loss resulting from inadequate or failed internal processes
+	people and systems or from external events."
+
+	-it includes legal risk.
+	-but leaves out reputational and strategic risk because they are difficult to measure.
+
+	protect against operational risk losses with a capital buffer.
+	1. basic indicator approach.
+	2. standardized approach.
+	3. advanced measurement approach. 
+
+	Basic indicator approach, capital buffer
+	- keep 15% of gross income (average over the past three years)
+	- ex. year 1, 150 million. year 2, 200 million. year 3, 300 million.
+		total 650 million.
+		.15 * 650/3 = 32.5 million capital buffer.
+
+	Standardized approach, capital buffer, weighted risks
+	- bank activities are classified into eight distinct business lines.
+	- average gross income from each business line is multiplied by the lines Beta factor?
+	- capital results from each are summed up.
+	(requirements, control mechanisms)
+	- regular reports, risk identification, well documented, independent reviews.
+
+	Advanced Measurement Approach, capital buffer, weighted risks, VAR
+	- For each business line, 7 catagories of operational risk:
+		1. Internal fraud
+		2. External fraud
+		3. Clients products and business practices
+		4. Employment practices and work safety
+		5. Damage to physical assets
+		6. Business Disruption and system failures
+		7. Execution, delivery and process management.
+	- Banks estimate one year VAR for each combination.
+
+	Loss frequency and Loss severity
+	"number of losses defined over a specified time period."
+	- loss frequency is measured with poisson distribution because interger number of events.
+	- loss severity is the size of the loss, log normal distribution and one fat tail, 
+	  monte carlo used to simulate loss.
+	
+	Scenario Analysis
+	- Aims to establish how a firm would do under a range of different scenarios. Stress testing?
+	- Studies the impact of low frequnecy high severity losses.
+
+	Allocation of operational risk capital
+	- identify Key Risk Inddicators (KRI)
+	- evaluate return on capital employed (ROCE) asses a units performance relative to others.
+	- reduce capital needs with better risk management.
+	
+	Scorecards and surveying risk indicators
+	- managers are assed on their ability to apprehend/negate risk.
+	- score them, asses exposure to risk.	
+
+	POWER LAW
+	rule of thumb for measurement of operational risk.
+	
+	P(x > v) = KV**-a
+	a = power law parameter
+	V = value at risk
+	K = scale coefficient
+
+	ex. .05 = K(50)**-0.7  <- 5% the prob exceed 50 million
+	then K = 0.7731
+
+	ex. what is the prob the loss exceeds 20 million?
+
+	p = 0.7731(20)**-0.7 = 9.95%
+
+	Insurance to mitigate Operational Risks
+	
+	
+
+
+	
+
+
+

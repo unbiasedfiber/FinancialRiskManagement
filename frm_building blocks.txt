@@ -1,0 +1,184 @@
+
+
+
+
+	Risk and its management
+
+	What is risk?
+	- Potential variability of returns around an expected return
+	- we can measure risk by variability.
+	- there is no return without risk.
+
+	Risk Managers must be able to price risks.
+	- determine the compensation for risk.
+	- price risk, or vaiability of returns.
+
+	RISK		- the variability that can be quantified in terms of probabilities
+	UNCERTAINTY	- the variability that cannot be quantified at all.
+
+
+	++++++++
+
+	Types of risks
+	- each type of risk requires different management.
+	
+	MARKET RISK
+			> equity price risk
+			> interest rate risk
+			> currency risk
+			> commodity risk 
+				- trading risk (general market, specific risk)
+				- gap risk	
+	Equity price risk
+	- volatility in the stock prices
+	- reduction of value of a portfolio or security due to market variables
+	- general market risk: risk of the economic system, diversification reduces specific risk.
+	- specific market risk: specific to industry or company.
+
+	Interest rate risk
+	- market interest rates, bonds interest/price relation
+
+	Currency risk
+	- exposure to exchange rates, foreign currencies.
+
+	Commodity price risk
+	- volatility associated with the prices of commodities. deriviatives are used to hedge price fluctuations
+
+	CREDIT RISK
+
+			> downgrade risk
+			> bankruptcy risk
+			> portfolio concentration risk
+
+	Bankruptcy risk
+	- risk associated with a borrowers inability to clear his debt resulting in takeover of collateralized assets
+
+	Downgrade risk
+	- decline in credit rating, drop in creditworthiness.
+
+	issues: creditworthiness of the obligor, high risk, high interest. 
+	concentration risk, the extent of diversification of asset base should be a concern.
+
+	LIQUIDITY RISK
+	
+			> funding liquidity risk
+			> trading liquidity risk
+
+	liquidity risk is the risk that a firm may be unable to meet short term financial needs.
+	
+	Liquidity risk
+	- the risk that a firm is unable to settle its obligations immediately when they are due.
+	
+	Trading liquidty risk
+	- the risk associated with the inability to execute transactions at the prevailing market price.
+
+
+	OPERATIONAL RISK
+			
+			> AML risk
+			> Cyber risk
+			> Model risk
+	
+	risk that arise due to operational weaknesses like management failure, faulty controls, inadequate systems etc
+	operational weakness/event risk.
+
+	Anti Money Laundering (AML) risk
+	- prevent criminals from disguising illegally obtained funds as legitimate income.
+	Cyber risk
+	- data breach, cyber attack
+	Model risk
+	- risk that a model doesn't reflect reality. financial model used to measure quantitative information fails
+	  or performs inadequately.
+
+	BUSINESS STRATEGIC and REPUTATIONAL RISK
+
+			> business risk
+			> strategic risk
+			> reputational risk
+	
+	investments into assets and associated risk
+	
+	Business risk
+	- uncertainties in demand, cost of production and the cost of delivery of products.
+
+	Strategic risk
+	- risk of significant investments where the uncertainty is high
+
+	Reputation risk
+	- similar to creditworthiness, follow ethics.
+
+
+	++++++++
+
+	Interactions of risk types
+
+	Risks can flow from one type to another
+		ie. Credit risk -> Liquidity risk -> Market risk
+	*flow can occur rapidly.
+
+
+	++++++++
+
+	1. Identify
+		name, catagorize, understand
+	2. Analyze
+		rank, score, measure, quant
+	3. Assess
+		effects, repercussions
+	4. Manage	
+		avoid, retain, mitigate, transfer
+
+	Methods of management
+		- Avoid: close down the business unit, change the business strategy.
+		- Retain or keep risk: Accept the riskiness of a project
+		- Mitigation: decrease exposure, frequency or severity of the risk
+		- Transfer risk: insurance, derivatives
+
+
+	++++++++
+
+	learn to calculate Expected loss, unexpected loss, VaR
+
+	Expected loss (EL) $
+	probability of default (PD) %
+	loss given default (LGD) $
+	exposure at default (EAD) $
+	
+	EL = EAD*LGD*PD
+
+	Unexpected loss
+	- variation in the expected loss, the error around EL
+	- the average total loss over and above the expected loss
+
+	VaR (value at risk)
+	- statistical measure that defines a particular level of loss in terms of its chances of occurance
+	  confidence level of the analysis
+	- used for extreme losses with very low probabilities.
+
+	
+	++++++++
+
+	Risk Aggregation
+	Risk managers should be able to identify riskiest businesses and determine the aggregate risks of a firm
+	
+	Market risks are easily quantified and controlled by comparing the notional amount in each asset held
+	- this is impractical since different industries have different volatility
+
+	Derivative traders developed risk measures, the greeks
+	- they are limited at the enterprise level
+
+	VaR
+	- doesn't give the magnitude of the loss
+
+	understanding how risks are aggregated and the drawbacks and advantages that come with it is an essential
+	risk management building block.
+
+	RISK DEVELOPS ACROSS ALL RISK TYPES, enterprise risk management attempts to address all types of risk.
+
+	GARP risk managers grind integrity, 
+
+
+
+
+
+

@@ -1,0 +1,69 @@
+
+
+
+	Theoretical objections
+
+	Franco Modigilani Merton Miller, how to value a firm? 
+
+	A model.
+
+	- focus attention on quality of the firms asset and cost of capital
+	- capital markets are efficient, no opportunities for riskless profits
+	- the value of the firm cannot be changed by changing transactions
+	- risk management is irrelevant in determining the value of business.
+
+	but,
+
+	relax the assumptions and you get bid/ask spreads, default, transaction cost, risk etc.
+	a counter to real risks:
+
+	- eliminate unsystematic risk with a diverse portfolio.
+
+	Reasons for risk management
+	- the efficient market hypothesis does not reflect reality, again, transaction costs, taxes, default, bid/ask
+	- systematic risk, financial distress and bankruptcy.
+	- Agency risk, "agents" do not act in the best interest of the principal
+
+	Risk managment is vital for success!
+
+	- tax incentives
+	- Volatile earnings induce higher taxation than stable earnings.
+	- Hedging increases the debt capacity of firms, increases interest tax deductions.
+	- derivatives for tax avoidance.
+
+	Accepting some form of risk, hedging other risks and managing hedging costs constitute underlying risk management.
+
+	Risk management in practice
+	
+	-clear decisions, objectives goals
+	- risk appetite should be determined by the board of directors
+	- types of risks, limits for losses with confidence intervals
+	- establish risk tolerance level
+	- can be used to screen projects
+	- est objectives so that everyone is taken care of, shareholders, creditors
+	- establish time horizons
+	- (hedging in general is a short term issue, tactical monitoring)
+	
+	Mapping of Risks
+	- general policy structure pertaining to risk management set by the board of directors
+	- identify risks and determine the appropriate instruments to hedge risks.
+
+	Internal hedging
+	- strategy made within firm to hedge risks, ie move manufacturing around the world to less risks places.
+
+	External hedging
+	- exchange traded market or over the counter market.
+	- exchange traded intruments are standardized products with maturities and strikes set in advance, while OTC derivatives
+	  are traded by investment banks etc. can e tailored to firms needs.
+	- OTC is done directly between two parties, without the supervision of an exchange.
+	- OTC credit risk is higher.
+
+	Division and implementing a strategy
+	- access to (good) data and statistical tools is required to frame a strategy for hedging.
+	- static strategies, hedge remains until the exposure ends.
+	- dynamic strategies are constantly maintained.
+
+	Horizon
+	- when to open/close positions
+	- tax laws vary between countries
+	- accounting, books must be perfect

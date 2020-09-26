@@ -1,0 +1,50 @@
+
+	
+	corporate governance compare and contrast.
+
+	Corporate governance
+	- a system of rules and practices to ensure accountability, transparency and achievement of long-term goals
+	- risk management is 'critical part' of corporate governance.
+	- failure of risk management is due to lack of governance.
+
+	{identify, quantify and manage risk}
+
+	- no checks and balances with in the department leads to disaster.
+	- board has a primary objective to prioritize and look after the interest of the shareholders
+	- board also must look after the bond holders, holders of debt, so risk insolvency must be understood
+	- risk governance: corporate governance + risk management
+ 	- there must be structure between the risk managers and board
+	- the board must be separate from ceo, corporate. This is because bias. from corporate leadership
+	
+	responsibilites of the Board
+	
+	- steer the firm in the interest of the shareholders
+	- look after stakeholders such as debt holders, bond holders
+	- ensure the sustainability of projects/profits.
+	- board manages the agency conflict.
+	- board and CEO act independently
+	- board members establish strategic plan, must respect the risk, then informs corporate.
+	- for every risk a firm has four basic choices: transfer, mitigate, accept reject.
+	- maximize the value of the firm, make the firm stay valuable.
+	- we want to increase economic performance.
+
+	responsibilities or risk advisor
+	- risk management specialist
+	- overseee development and reporting
+	- aware of the laws, rules, metrics and apply them to the agenda.
+	- ensure compliance
+	- provide independent review of risk reports
+	
+	risk governance mechanisms
+	- CRO cheif risk officer
+	- a recomendation about the risk appetite of the firm is given to the risk committee
+	- risk committee approves the risk appetite for the bank.
+	- the senior risk committee documents and enforces policies pertaining to risks
+	- the CRO frames the banks risk management strategy.
+	- business risk committee decides if the risk appetite of the firm corresponds to their
+	
+	the circle of life in risk management
+	- risk management reports to senior management who establishes policy and risk tolerance, ensures performance, approves
+	- trading room management responds by managing exposure, deal capture, signs off on P&L
+	- Operations books and settles trades, reconciles positions, provides market to market
+	- Finance develops valuation policy, ensures integrity of P&L, supports business needs.

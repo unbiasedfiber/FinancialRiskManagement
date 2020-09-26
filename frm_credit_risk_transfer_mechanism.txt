@@ -1,0 +1,65 @@
+
+	
+
+	Overview of credit risk management
+	
+	- traditionally banks take short-term deposits and pool them together to provide long-term loans
+	- However, these loans introduce credit risk, borrower may default
+	- there are several ways to approach this type of risk exposure.
+	- Accept, Avoid, Reduce, Transfer
+
+	Here we will examine risk transfer only
+
+	Credit Derivitives are financial instruments that transfer credit risk from one party to another.
+	- credit derivatives transfer risk without transfering the underlying
+	- credit derivatives are over the counter instruments, non-standardized, trading not bound by SEC
+	- credit derivatives include: swaptions, CDOs, total return swaps, credit default swaps
+
+	CDS Credit default swaps (compensation for default of borrower, insurance on coupon payments)
+
+	- if the issuer fails to pay the coupon, swap dealer must pay.
+	- CDSs can serves as a shock absorber during a corporate crisis.
+	- CDS contracts ultimately result in more liquidity
+	- pricing of CDSs reflect prevailing financial health of the debtor
+	- low premium less risk.
+	- however speculators may inflate the prices of CDSs, subject to manipulation.
+
+	CDO collateralized debt obligations
+
+	- ie. bank loans, credit default swaps, mortgage backed securities, groups of bonds.	
+	- products made by banks to 'offload' risk
+	- securities that are packages of risky instruments, loans.
+	- diversified investments, pools of securities.
+	- a Special Purpose Vehicle, products sold to investors
+
+	- senior tranche holders paid first,
+	- mezzazine paid then equity tranche.
+	
+	- combine investments mitigate risk.
+	- financial institution can be less diligent in credit risk analysis
+	
+	Total return swap
+	
+	- one party pays a fixed rate, counterparty pays a variable, floating rate.
+	- combination of credit and market risk, winning party gets the capital gains.
+	- based on notional principle.
+	- includes interest rate risk and credit (counterparty)risk. however the most preferred vehicle
+	
+	Swaption
+	
+	- work just like call/put on swaps.
+
+	Marking-to-market, settlement of gains and losses at the end of the day.
+	
+	- avoids accumulation of large losses
+	- termination, define trigger clauses of the contract, how to get out of the contract.
+
+	Securitization
+	- transfer ownership of assets from original owners to special purpose vehicles
+	- more legal claim, match risk and maturity needs.
+	- there are two main parties in securitization: originator (seller of collateral) owns the pool of assets
+	  sells them to the issuer. Special Purpose Vehicle, creates a security backed by assets acquired and sells them to investors
+	
+	insurance tools, basically.
+		
+
